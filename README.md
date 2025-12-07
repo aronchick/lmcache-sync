@@ -4,7 +4,7 @@
 
 Automatic LLM cache invalidation powered by Expanso + LMCache.
 
-**[View the Demo ’](./demo/)**
+**[View the Demo](https://aronchick.github.io/lmcache-sync/)**
 
 ## What is this?
 
@@ -20,6 +20,6 @@ docker compose up -d
 
 ## Learn More
 
-- [Full Documentation](./demo/index.html)
+- [Full Documentation](https://aronchick.github.io/lmcache-sync/)
 - [Expanso](https://expanso.io)
 - [LMCache](https://github.com/LMCache/LMCache)
